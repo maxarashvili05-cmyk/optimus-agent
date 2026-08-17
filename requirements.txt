@@ -1,0 +1,4 @@
+sqlalchemy
+google-api-python-client
+openai
+boto3
