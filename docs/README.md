@@ -30,7 +30,7 @@ Code
 Clone the repository
 
 bash
-git clone https://github.com/YOUR_USERNAME/optimind-agent.git
+git clone https://github.com/maxarashvili05-cmyk/optimus-agent
 cd optimind-agent
 Install dependencies
 
